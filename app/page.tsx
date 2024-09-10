@@ -1,6 +1,6 @@
-import Grid from "@/components/grid";
-import HERO from "@/components/hero";
-import Hero from "@/components/hero";
+import Grid from "./../components/grid";
+import HERO from "./../components/hero";
+import Hero from "./../components/hero";
 import { FloatingNav } from "@/components/ui/floating-navbar";
 import Image from "next/image";
 

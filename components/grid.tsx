@@ -1,7 +1,7 @@
 import { section } from "framer-motion/client";
 import React from "react";
 import { BentoGrid, BentoGridItem } from "./ui/bento-grid";
-import { gridItem } from "@/data";
+import { gridItem } from "./../data";
 
 function Grid() {
   return (
